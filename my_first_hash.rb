@@ -1,7 +1,5 @@
-def my_hash = {
-  "my_age" => 32,
-  "my_name" => "Dallas"
-  }
+def my_hash
+  your_hash = {"key" => "value"}
   
 end
 
